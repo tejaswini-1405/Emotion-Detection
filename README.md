@@ -1,16 +1,30 @@
-## Emotion Detection using CNN
-This project performs facial emotion detection using:
-- Python
-- OpenCV
-- CNN (Keras/TensorFlow)
-- Flask (Web interface)
+# Facial Emotion Detection System 🎭
 
-## Features
-- Detects emotions like Happy, Sad, Angry, Neutral
-- Image upload support
+A Flask-based Facial Emotion Detection system that detects human emotions from images and live camera input using Deep Learning and OpenCV.
+
+## 🚀 Features
+- Detect emotions from uploaded images
+- Real-time emotion detection using webcam
 - Face detection using Haar Cascade
+- Emotion classification using a trained CNN model
+- Simple and user-friendly Flask web interface
 
-## How to Run
-1. Install dependencies
-2. Run `python app.py`
-3. Open browser at `http://127.0.0.1:5000`
+## 🛠 Tech Stack
+- **Language:** Python 3.x
+- **Framework:** Flask
+- **Computer Vision:** OpenCV
+- **Deep Learning:** TensorFlow / Keras
+- **Frontend:** HTML, CSS
+- **Model:** CNN (emotion_model.h5)
+
+## 📁 Project Structure
+
+---
+
+## ⚙️ Installation & Setup
+
+### 1️⃣ Clone the Repository
+git clone https://github.com/tejaswini-1405/Emotion-Detection.git
+cd Emotion-Detection
+
+
