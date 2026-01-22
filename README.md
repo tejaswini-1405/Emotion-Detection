@@ -27,4 +27,23 @@ A Flask-based Facial Emotion Detection system that detects human emotions from i
 git clone https://github.com/tejaswini-1405/Emotion-Detection.git
 cd Emotion-Detection
 
+### 2️⃣ Create Virtual Environment
+python -m venv venv
+## Windows
+venv\Scripts\activate
+## Mac/Linux
+source venv/bin/activate
+
+## 3️⃣ Install Dependencies
+pip install -r requirements.txt
+
+## ▶️ Run the Project
+## Run Flask App
+python app.py
+open browser
+http://127.0.0.1:5000/
+
+## Run Live Emotion Detection
+python emotion.py
+
 
