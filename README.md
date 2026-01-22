@@ -1,6 +1,10 @@
 # Facial Emotion Detection System 🎭
 
-A Flask-based Facial Emotion Detection system that detects human emotions from images and live camera input using Deep Learning and OpenCV.
+Facial Emotion Detection is a computer vision and deep learning–based application that identifies human emotions from facial images.  
+The system uses a **Convolutional Neural Network (CNN)** trained on facial expression data to classify emotions such as **Happy, Sad, Angry, Fear, Surprise, and Neutral**.
+Using **OpenCV** for face detection and **deep learning models** for emotion classification, the application provides accurate emotion prediction from static images and can be extended to real-time webcam analysis.  
+This project demonstrates the practical application of **AI, machine learning, and image processing** techniques in human–computer interaction.
+
 
 ## 🚀 Features
 - Detect emotions from uploaded images
